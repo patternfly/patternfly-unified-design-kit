@@ -43,6 +43,8 @@ View the Issues tab, contribute design work in the .sketch pile and create a pul
 - Large search bar and search CTA link
 - Center-aligned text styling in most card
 
+---
+
 ### v1.0.0
 
 - Accordion
