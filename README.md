@@ -48,6 +48,11 @@ View the Issues tab, contribute design work in the .sketch pile and create a pul
 - Accordion
 - Alert
 - Announcement bar
+
+### v1.0
+- Accordion [component]
+- Alert
+- Announcement bar [component]
 - Buttons
 - Card patterns
 - Calls to action
@@ -60,4 +65,3 @@ View the Issues tab, contribute design work in the .sketch pile and create a pul
 - Sticky nav
 - Tabs
 - Video thumbnail
-- Typography elements (a few of these are still in progress)
