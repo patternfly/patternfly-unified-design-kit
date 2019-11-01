@@ -4,12 +4,12 @@ The unified brand used across Red Hat digital. A collaborative, open design syst
 
 ## To use
 
-1. Clone the repo to access the Unified Design Kit .sketch file.
-2. Open the Sketch file and use as you need!
+1. Clone the repo to access the .xd file.
+2. Open the Adobe XD file and use as you need.
 
 ## To contribute
 
-View the Issues tab, contribute design work in the .sketch pile and create a pull request for our team to review.
+View the Issues tab, contribute design work IN A SEPARATE .xd file, create a pull request for our team to review, and we'll add to the master kit once approved.
 
 ## Release notes
 
