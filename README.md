@@ -1,6 +1,8 @@
-# PatternFly Elements - Unified Design Kit
+# Unified Design Kit
 
-The unified brand used across Red Hat digital. A collaborative, open design system.
+This repo contains a design kit shared by Red Hat’s digital marketing, customer platform, and product design teams.
+
+Our goal is to unify Red Hat’s digital experiences with a shared design system, informed by [Red Hat brand standards](https://brand.redhat.com).
 
 ## To use
 
